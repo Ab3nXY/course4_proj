@@ -48,6 +48,7 @@ class Dev(Configuration):
 
     INSTALLED_APPS = [
         'movies',
+        "gh",
         'django.contrib.admin',
         'django.contrib.auth',
         'django.contrib.contenttypes',
