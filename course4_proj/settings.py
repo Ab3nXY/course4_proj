@@ -57,6 +57,7 @@ class Dev(Configuration):
         'django_celery_results',
         'movies',
         "gh",
+        "django_celery_beat",
         'django.contrib.admin',
         'django.contrib.auth',
         'django.contrib.contenttypes',
